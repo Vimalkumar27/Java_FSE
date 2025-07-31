@@ -1,0 +1,15 @@
+.score-container {
+  background-color: #f0f8ff;
+  border: 2px solid #ccc;
+  padding: 20px;
+  margin: 40px auto;
+  width: 50%;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  box-shadow: 2px 2px 12px #aaa;
+}
+
+.score-container h2 {
+  color: #2a5d84;
+}
